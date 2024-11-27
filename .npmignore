@@ -1,0 +1,5 @@
+.idea
+__tests__
+coverage
+docs
+jest.config.js
